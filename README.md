@@ -1,4 +1,4 @@
-# Loan Approval Prediction — CSE422 (Group 04)
+# Loan Approval Prediction Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
